@@ -42,7 +42,7 @@ header .logo{
 
 .filme-principal{
     display: flex;
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)100%), url('/img/blindspot.jpg');
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)100%), url('../img/blindspot.jpg');
     background-size: cover;
     background-position:center;
     height: 880px;
